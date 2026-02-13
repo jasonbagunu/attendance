@@ -28,7 +28,7 @@ $current_mode = $_SESSION['attendance_mode'];
           padding: 30px;
           background: linear-gradient(135deg, #0d2c54, #143b73);
           font-family: "Segoe UI", Arial, sans-serif;
-          color: #fff;
+          color: #ffffff;
       }
 
       .container {
@@ -36,7 +36,7 @@ $current_mode = $_SESSION['attendance_mode'];
       }
 
       .logo-holder {
-          padding-top: 15px;
+          padding-top: 15 px;
           text-align: center;
           margin-bottom: 25px;
       }
