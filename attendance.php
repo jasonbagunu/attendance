@@ -164,7 +164,7 @@ h1{
 
   <!-- LOGO -->
   <div class="logo-holder">
-    <img src="awslogo.jpg">
+    <img src="sacelogo.jpg">
   </div>
 
   <h1>Attendance Log</h1>

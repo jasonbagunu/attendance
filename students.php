@@ -171,7 +171,7 @@ h1{
 
   <!-- LOGO -->
   <div class="logo-holder">
-    <img src="awslogo.jpg" alt="AWS Logo">
+    <img src="sacelogo.jpg" alt="SACE Logo">
   </div>
 
   <h1>Student Management</h1>

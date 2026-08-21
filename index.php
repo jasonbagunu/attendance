@@ -111,7 +111,7 @@ $current_mode = $_SESSION['attendance_mode'];
 <body>
 <div class="container">
   <div class="logo-holder">
-  <img src="awslogo.jpg" alt="AWS Logo">
+  <img src="sacelogo.jpg" alt="SACE Logo">
 </div>
 
 <h1 class="mb-3">Attendance System</h1>
